@@ -1,0 +1,2 @@
+# My-journey-of-adjusting-parameters-in-CNN
+This Code presents how to build and adjust parameters in CNN (Convolutional Neural Network)  model to solve the Traffic project of CS50ai. With Keras layers, such as Conv2D, BatchNormalization, Relu, Maxpooling2D, I made up a big layer, repeated 3 times, and then data through Dropout, Flattern, Dense layers. I finally got the output as classification result.
